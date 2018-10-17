@@ -1,0 +1,3 @@
+odoo:
+    modules: []
+    src: https://github.com/OCA/OCB 12.0

@@ -1,0 +1,5 @@
+src:
+  default: {depth: 20}
+  merges: [origin 12.0]
+  remotes: {origin: 'https://github.com/OCA/OCB'}
+  target: origin 12.0
