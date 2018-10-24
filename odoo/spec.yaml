@@ -1,3 +1,91 @@
 odoo:
     modules: []
     src: https://github.com/OpenUpgrade/OpenUpgrade 10.0
+
+account-analytic:
+    modules: []
+    src: https://github.com/OCA/account-analytic 10.0
+
+account-financial-reporting:
+    modules: []
+    src: https://github.com/OCA/account-financial-reporting.git 10.0
+
+account-financial-tools:
+    modules: []
+    src: https://github.com/OCA/account-financial-tools.git 10.0
+
+account-fiscal-rule:
+    modules: []
+    src: https://github.com/OCA/account-fiscal-rule.git 10.0
+
+account-invoicing:
+    modules: []
+    src: https://github.com/OCA/account-invoicing.git 10.0
+
+connector:
+    modules: []
+    src: https://github.com/OCA/connector.git 10.0
+
+knowledge:
+    modules: []
+    src: https://github.com/OCA/knowledge.git 10.0
+
+connector:
+    modules: []
+    src: https://github.com/OCA/connector.git 10.0
+
+l10n-france:
+    modules: []
+    src: https://github.com/OCA/l10n-france.git 10.0
+
+margin-analysis:
+    modules: []
+    src: https://github.com/OCA/margin-analysis.git 10.0
+
+pos:
+    modules: []
+    src: https://github.com/OCA/pos.git 10.0
+
+product-attribute:
+    modules: []
+    src: https://github.com/OCA/product-attribute.git 10.0
+
+purchase-workflow:
+    modules: []
+    src: https://github.com/OCA/purchase-workflow.git 10.0
+
+reporting-engine:
+    modules: []
+    src: https://github.com/OCA/reporting-engine.git 10.0
+
+sale-reporting:
+    modules: []
+    src: https://github.com/OCA/sale-reporting.git 10.0
+
+sale-workflow:
+    modules: []
+    src: https://github.com/OCA/sale-workflow.git 10.0
+
+server-tools:
+    modules: []
+    src: https://github.com/OCA/server-tools.git 10.0
+
+social:
+    modules: []
+    src: https://github.com/OCA/social.git 10.0
+
+stock-logistics-barcode:
+    modules: []
+    src: https://github.com/OCA/stock-logistics-barcode.git 10.0
+
+stock-logistics-workflow:
+    modules: []
+    src: https://github.com/OCA/stock-logistics-workflow.git 10.0
+
+web:
+    modules: []
+    src: https://github.com/OCA/web.git 10.0
+
+webkit-tools:
+    modules: []
+    src: https://github.com/OCA/webkit-tools.git 10.0
