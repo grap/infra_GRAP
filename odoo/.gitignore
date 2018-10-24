@@ -9,5 +9,5 @@ external-src/
 src/
 links/
 
-./repo.yaml
+repo.yaml
 ./pip-selfcheck.json

@@ -4,7 +4,7 @@
 #Running pip install -e /odoo/src to restore odoo.egg-info
 #/odoo/src should either be a path to a local project or a VCS url beginning with svn+, git+, hg+, or bzr+
 
-FROM quay.io/akretion/odoo:11.0-full-latest
+FROM quay.io/akretion/odoo:10.0-latest
 
 COPY . /opt/odoo
 COPY ./etc/odoo.cfg.tmpl /opt/etc/odoo.cfg.tmpl

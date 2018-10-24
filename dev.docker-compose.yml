@@ -20,14 +20,14 @@ services:
       - DB_NAME=db
       - RUNNING_ENV=dev
       - MARABUNTA_MODE=demo
-      - VIRTUAL_HOST=instance_grap_12.dy
+      - VIRTUAL_HOST=instance_grap_10_openupgrade_docky.dy
       - VIRTUAL_PORT=8069
     links:
       - db
     networks:
       default:
         aliases:
-          - instance_grap_12.dy
+          - instance_grap_10_openupgrade_docky.dy
     volumes:
       - ./odoo:/opt/odoo
 version: '3'
